@@ -6,7 +6,7 @@ Projeto criado por meio do bootcamp Decola Tech na Digital Innovation One com o 
 
 Algoritmo simples de cadastro de animes para pratica dos conhecimentos de orientação a objetos.
 
-###### Comandos do algoritmo
+## Comandos do algoritmo
 
 - Inserir um novo anime;
 - Listar animes inseridos;
