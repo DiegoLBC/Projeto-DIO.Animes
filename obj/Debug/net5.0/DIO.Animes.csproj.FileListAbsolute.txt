@@ -1,0 +1,16 @@
+D:\Programacao\Decola Tech\Primeiros passos com .net\Projeto\DIO.Animes\bin\Debug\net5.0\DIO.Animes.exe
+D:\Programacao\Decola Tech\Primeiros passos com .net\Projeto\DIO.Animes\bin\Debug\net5.0\DIO.Animes.deps.json
+D:\Programacao\Decola Tech\Primeiros passos com .net\Projeto\DIO.Animes\bin\Debug\net5.0\DIO.Animes.runtimeconfig.json
+D:\Programacao\Decola Tech\Primeiros passos com .net\Projeto\DIO.Animes\bin\Debug\net5.0\DIO.Animes.runtimeconfig.dev.json
+D:\Programacao\Decola Tech\Primeiros passos com .net\Projeto\DIO.Animes\bin\Debug\net5.0\DIO.Animes.dll
+D:\Programacao\Decola Tech\Primeiros passos com .net\Projeto\DIO.Animes\bin\Debug\net5.0\ref\DIO.Animes.dll
+D:\Programacao\Decola Tech\Primeiros passos com .net\Projeto\DIO.Animes\bin\Debug\net5.0\DIO.Animes.pdb
+D:\Programacao\Decola Tech\Primeiros passos com .net\Projeto\DIO.Animes\obj\Debug\net5.0\DIO.Animes.csproj.AssemblyReference.cache
+D:\Programacao\Decola Tech\Primeiros passos com .net\Projeto\DIO.Animes\obj\Debug\net5.0\DIO.Animes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacao\Decola Tech\Primeiros passos com .net\Projeto\DIO.Animes\obj\Debug\net5.0\DIO.Animes.AssemblyInfoInputs.cache
+D:\Programacao\Decola Tech\Primeiros passos com .net\Projeto\DIO.Animes\obj\Debug\net5.0\DIO.Animes.AssemblyInfo.cs
+D:\Programacao\Decola Tech\Primeiros passos com .net\Projeto\DIO.Animes\obj\Debug\net5.0\DIO.Animes.csproj.CoreCompileInputs.cache
+D:\Programacao\Decola Tech\Primeiros passos com .net\Projeto\DIO.Animes\obj\Debug\net5.0\DIO.Animes.dll
+D:\Programacao\Decola Tech\Primeiros passos com .net\Projeto\DIO.Animes\obj\Debug\net5.0\ref\DIO.Animes.dll
+D:\Programacao\Decola Tech\Primeiros passos com .net\Projeto\DIO.Animes\obj\Debug\net5.0\DIO.Animes.pdb
+D:\Programacao\Decola Tech\Primeiros passos com .net\Projeto\DIO.Animes\obj\Debug\net5.0\DIO.Animes.genruntimeconfig.cache
